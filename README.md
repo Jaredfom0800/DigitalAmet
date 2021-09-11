@@ -1,2 +1,1 @@
 # DigitalAmet
-Proyecto escolar
